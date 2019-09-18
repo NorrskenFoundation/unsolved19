@@ -2,7 +2,7 @@
 # Care4Me 
 
 
-Teammates:
+Teammates:<br>
 Heaven Bereket<br>
 Nabi Amanuel<br>
 Raffi Avakian<br>
