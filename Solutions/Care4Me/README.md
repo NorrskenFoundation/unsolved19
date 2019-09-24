@@ -2,7 +2,6 @@
 # Team Care4Me 
 
 ### Team members
-Teammates:<br>
 Heaven Bereket<br>
 Nabi Amanuel<br>
 Raffi Avakian<br>
