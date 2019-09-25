@@ -15,7 +15,7 @@ This Github repo contains information and resources by and for the Norrsken Hack
 ## Winners
 The winners of unsolved 2019 are:
 
-Game Changer - [Greenlutics](https://github.com/NorrskenFoundation/unsolved19/tree/master/Solutions/Greenlytics)<br>
+Game Changer - [Greenlytics](https://github.com/NorrskenFoundation/unsolved19/tree/master/Solutions/Greenlytics)<br>
 Best Technical Solution - [NorthvoltTeam](https://github.com/NorrskenFoundation/unsolved19/tree/master/Solutions/NorthvoltTeam)<br>
 Best Pitch - [MyLife] - (https://github.com/NorrskenFoundation/unsolved19/tree/master/Solutions/MyLife)<br>
 
