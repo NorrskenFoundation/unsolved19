@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Pasta Bolognese",
+    "servingSize": 4,
+    "imgUrl": "pasta-bolognese.jpeg",
+    "ingredients": [
+      {
+        "title": "Ground beef",
+        "amount": 300,
+        "measure": "gram(s)"
+      },
+      {
+        "title": "Pasta",
+        "amount": 350,
+        "measure": "gram(s)"
+      },
+      {
+        "title": "Salt",
+        "amount": 4,
+        "measure": "gram(s)"
+      },
+      {
+        "title": "Parmesan",
+        "amount": 1,
+        "measure": "serving(s)"
+      }
+    ]
+  },
+  {
+    "title": "Pasta Pesto",
+    "servingSize": 4,
+    "imgUrl": "pasta-pesto.jpeg",
+    "ingredients": [
+      {
+        "title": "Pesto",
+        "amount": 15,
+        "measure": "gram(s)"
+      },
+      {
+        "title": "Pasta",
+        "amount": 350,
+        "measure": "gram(s)"
+      },
+      {
+        "title": "Salt",
+        "amount": 4,
+        "measure": "gram(s)"
+      },
+      {
+        "title": "Parmesan",
+        "amount": 1,
+        "measure": "serving(s)"
+      }
+    ]
+  }
+]
