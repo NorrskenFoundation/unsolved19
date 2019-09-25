@@ -12,7 +12,12 @@ This Github repo contains information and resources by and for the Norrsken Hack
   * [EricssonWeather](Challenges/EricssonWeather.md)
   * [Karma](Challenges/Karma.md)
 
+## Winners
+The winners of unsolved 2019 are:
 
+Game Changer - [Greenlutics](https://github.com/NorrskenFoundation/unsolved19/tree/master/Solutions/Greenlytics)
+Best Technical Solution - [NorthvoltTeam](https://github.com/NorrskenFoundation/unsolved19/tree/master/Solutions/NorthvoltTeam)
+Best Pitch - [MyLife] - (https://github.com/NorrskenFoundation/unsolved19/tree/master/Solutions/MyLife)
 
 ## Submit solution 
 Every team must create a new repository on GitHub. To submit your solution, one of your team members must email the link to unsolved@norrskenfoundation.org before 18.45. After that time we will not be able to judge your solution. The subject of the email should be your team name and the challenge you have been working on. The README file should contain the following information:
