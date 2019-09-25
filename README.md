@@ -67,4 +67,3 @@ info@norrskenfoundation.org<br>
 
 [Terms & conditions](https://hackforimpact.norrskenimpactweek.org/terms-and-conditions)
 
-[link](https://docs.google.com/document/d/101GkXZEMNwAXU6dylU9hxPmHL9vOrbqv8dkX4eeakSg/edit?usp=sharing)
