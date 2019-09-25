@@ -1,0 +1,11 @@
+name,lat,lon,type
+"Québec, Quebec, Canada",46.81228,-71.21454,mine
+"Kolwezi, Lualaba, Democratic Republic of the Congo",-10.71484,25.46674,mine
+"Shinkolobwe, Haut-Katanga, Democratic Republic of the Congo",-11.05248,26.54665,mine
+"Rotterdam, South Holland, Netherlands",51.9225,4.47917,harbor
+"Casablanca, Casablanca-Settat, Morocco",33.58831,-7.61138,harbor
+"Bilbao, Basque Country, Spain",43.26271,-2.92528,harbor
+"Hamburg, Hamburg, Germany",53.57532,10.01534,refinery
+"Turku, Southwest Finland, Finland",60.45148,22.26869,refinery
+"Lysekil, Västra Götaland, Sweden",58.27429,11.43576,refinery
+"Skellefteå Airport, Västerbotten, Sweden",64.62477,21.07689,factory
