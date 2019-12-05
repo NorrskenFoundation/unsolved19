@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Pasta",
+    "amount": 1000,
+    "measure": "grams"
+  },
+  {
+    "title": "Pesto",
+    "amount": 185,
+    "measure": "grams"
+  },
+  {
+    "title": "Salt",
+    "amount": 1000,
+    "measure": "grams"
+  },
+  {
+    "title": "Parmesan",
+    "amount": 150,
+    "measure": "grams"
+  },
+  {
+    "title": "Ground beef",
+    "amount": 300,
+    "measure": "grams"
+  }
+]
