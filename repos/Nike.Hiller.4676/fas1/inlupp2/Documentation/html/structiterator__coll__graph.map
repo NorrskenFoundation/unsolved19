@@ -1,0 +1,11 @@
+<map id="iterator" name="iterator">
+<area shape="rect" id="node2" href="$structlink.html" title="link" alt="" coords="97,5,139,32"/>
+<area shape="rect" id="node10" href="$structlist.html" title="list" alt="" coords="99,109,137,136"/>
+<area shape="rect" id="node3" href="$unionelem.html" title="elem" alt="" coords="213,377,263,404"/>
+<area shape="rect" id="node5" href="$structhash__table.html" title="hash_table" alt="" coords="195,588,281,615"/>
+<area shape="rect" id="node6" href="$structentry.html" title="entry" alt="" coords="213,490,263,517"/>
+<area shape="rect" id="node4" href="$structcart.html" title="cart" alt="" coords="273,677,317,704"/>
+<area shape="rect" id="node7" href="$structshelf.html" title="shelf" alt="" coords="311,288,362,315"/>
+<area shape="rect" id="node8" href="$structmerch.html" title="merch" alt="" coords="170,288,229,315"/>
+<area shape="rect" id="node9" href="$structshelf__list.html" title="shelf_list" alt="" coords="151,199,226,225"/>
+</map>

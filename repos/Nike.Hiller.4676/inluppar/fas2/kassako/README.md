@@ -1,1 +1,0 @@
-Här ligger kassakö-uppgiften

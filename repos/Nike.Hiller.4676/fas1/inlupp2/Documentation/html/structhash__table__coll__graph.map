@@ -1,0 +1,10 @@
+<map id="hash_table" name="hash_table">
+<area shape="rect" id="node4" href="$structcart.html" title="cart" alt="" coords="183,103,227,130"/>
+<area shape="rect" id="node2" href="$structentry.html" title="entry" alt="" coords="5,305,56,332"/>
+<area shape="rect" id="node3" href="$unionelem.html" title="elem" alt="" coords="180,201,231,228"/>
+<area shape="rect" id="node8" href="$structlist.html" title="list" alt="" coords="219,409,258,436"/>
+<area shape="rect" id="node9" href="$structlink.html" title="link" alt="" coords="276,305,319,332"/>
+<area shape="rect" id="node5" href="$structshelf.html" title="shelf" alt="" coords="252,103,303,130"/>
+<area shape="rect" id="node6" href="$structmerch.html" title="merch" alt="" coords="139,588,197,615"/>
+<area shape="rect" id="node7" href="$structshelf__list.html" title="shelf_list" alt="" coords="192,499,267,525"/>
+</map>
