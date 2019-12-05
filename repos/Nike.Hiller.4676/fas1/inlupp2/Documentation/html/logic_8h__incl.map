@@ -1,7 +1,0 @@
-<map id="src/logic.h" name="src/logic.h">
-<area shape="rect" id="node3" href="$hash__table_8h.html" title="Hash table that maps keys of a type of &#39;elem_t&#39; to values of type &#39;elem_t&#39;. " alt="" coords="208,80,304,107"/>
-<area shape="rect" id="node7" href="$common_8h_source.html" title="common.h" alt="" coords="211,304,293,331"/>
-<area shape="rect" id="node6" href="$linked__list_8h_source.html" title="linked_list.h" alt="" coords="128,155,219,181"/>
-<area shape="rect" id="node11" href="$iterator_8h.html" title="Common definition for hash_table.h, linked_list.h, and iterator.h. " alt="" coords="94,229,167,256"/>
-<area shape="rect" id="node9" href="$utils_8h_source.html" title="utils.h" alt="" coords="286,379,343,405"/>
-</map>
